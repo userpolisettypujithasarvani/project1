@@ -1,0 +1,72 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"PUJITHA POLISETTY",
+                "email":"srep4you@gmail.com",
+                "mobile":"+91 9966339377"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90",
+                    "institute":"Universal Techno School"
+                },
+                {
+                    "degree":"Diploma-(C.S.E)",
+                    "percentage":"89",
+                    "institute":"SUVR"
+                },
+                {
+                    "degree":"B-Tech -(C.S.E)",
+                    "percentage":"75",
+                    "institute":"VVIT"
+                }
+            ],
+        "skills":[
+            {
+                "type":"Programming Languages",
+                "values":["C","C++","Java",".net","dbms"]
+            },
+            {
+                "type":"Web Technologies",
+                "values":["HTML","CSS","JScript"]
+            },
+            {
+                "type":"FrameWorks&Technologies",
+                "values":["ReactJs"]
+            },
+            {
+                "type":"OperatingSystem",
+                "values":["UNIX","Windows","Linux"]
+            }
+
+         ] 
+        },       
+        {
+            "basics":{
+                "name":"EAKNADH POLISETTY",
+                "email":"eaknadhpolisetty@gmail.com",
+                "mobile":"+91 7995640769"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"98",
+                    "institute":"Universal Techno School"
+                },
+                {
+                    "degree":"Intermediate-(M.P.C)",
+                    "percentage":"94",
+                    "institute":"Narayana"
+                },
+                {
+                    "degree":"B-Tech (C.S.E)",
+                    "percentage":"95",
+                    "institute":"KLU"
+                }
+            ]
+              
+        }
+    ]
+}
